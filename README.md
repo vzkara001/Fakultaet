@@ -1,2 +1,2 @@
 # Fakultaet
-Fakultaetsberechnungne
+Fakultaetsberechnungen
